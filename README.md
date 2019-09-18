@@ -1,4 +1,4 @@
-# projeto base para startar uma aplicação node
+# Projeto base para iniciar uma aplicação node padronizada
 
 Arquitetura de projetos nodejs padronizada.
 
